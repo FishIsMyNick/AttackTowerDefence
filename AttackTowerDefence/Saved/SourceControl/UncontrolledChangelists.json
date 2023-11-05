@@ -13,7 +13,23 @@
 				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/PH/WQFJJGR81PTWACYGUC1CP5.uasset",
 				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/E/2M/ESWAVQBPX1XK2OH2YGVZCM.uasset",
 				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/E/ZB/64YLC9YROSMO90SC5KR0PE.uasset",
-				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/CW/48JI1613YIBZJQ8PU245JH.uasset"
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/CW/48JI1613YIBZJQ8PU245JH.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/BP_FPS_HT_Player.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/BP_FPS_HT_Projectile.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/BP_FPS_HT_BasicSolider.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/BP_FPS_HT_BasicSoliderProjectile.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/UI_FPS.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/FirstPersonHUD.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/HighTech/GM/GM_FPS_HT.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/HighTech/Characters/BP_FPS_HT_BasicSolider.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Blueprints/HighTech/Projectiles/BP_FPS_HT_BasicSoliderProjectile.uasset",
+				"E:/UE5 PROJECTS/Git/AttackTowerDefence/AttackTowerDefence/Content/FirstPerson/Maps/FirstPersonMap.umap"
 			]
 		}
 	]
