@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/2R/TKXMGQLWGTB6FEH6EYY7NK.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/8/9P/KRNGZ1PU2Y3ACDDE2D2XC5.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/PH/WQFJJGR81PTWACYGUC1CP5.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/E/2M/ESWAVQBPX1XK2OH2YGVZCM.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/E/ZB/64YLC9YROSMO90SC5KR0PE.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/1/C7/TRNT5C7HG45BWUAEIWEV4S.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/4/HQ/UJNEBWOWXZJXLI7ZLMPX0F.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/8Y/O18PKLUX677XIW24JSWE92.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/BH/LZJZG58NR0TT18A0Z7NSFY.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/Turrets/Turret.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/Turrets/Tower.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/73/2TBZUTC7CRPOU67QKFVQ06.uasset"
+			]
+		}
+	]
+}
