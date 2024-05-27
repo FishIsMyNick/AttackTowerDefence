@@ -20,10 +20,17 @@
 				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO.uasset",
 				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI.uasset",
 				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
-				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/BH/LZJZG58NR0TT18A0Z7NSFY.uasset",
 				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/Turrets/Turret.uasset",
 				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/Turrets/Tower.uasset",
-				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/73/2TBZUTC7CRPOU67QKFVQ06.uasset"
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/73/2TBZUTC7CRPOU67QKFVQ06.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/FirstPerson/Blueprints/HIghTech/Guns/BP_FPS_HT_BasicGun.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/FirstPerson/Blueprints/HIghTech/Characters/BP_FPS_HT_BasicSolider.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/Turrets/Gun_Tower/Tower1.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/Turrets/Gun_Tower/Tower.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/Turrets/Gun_Tower/Turret.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/FirstPerson/Blueprints/BP_FPS_HT_BasicSolider.uasset",
+				"E:/UE5 PROJECTS/ATD_v01/ATD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/BH/LZJZG58NR0TT18A0Z7NSFY.uasset"
 			]
 		}
 	]
